@@ -1,5 +1,10 @@
 package com.manu.horsetrack;
 
+/**
+ * 
+ * @author manoj
+ *
+ */
 public interface Operations {
 	
 	  public boolean quit();

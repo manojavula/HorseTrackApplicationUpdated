@@ -1,5 +1,10 @@
 package com.manu.horsetrack.entity;
 
+/**
+ * 
+ * @author manoj
+ * Wager Pojo class
+ */
 public class Wager {
 	
 	  private final int denomination;

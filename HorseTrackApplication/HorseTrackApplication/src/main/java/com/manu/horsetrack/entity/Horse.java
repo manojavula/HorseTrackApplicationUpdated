@@ -8,6 +8,11 @@ import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.Id;
 import jakarta.persistence.Table;
 
+/**
+ * 
+ * @author manoj
+ * Horse entity class
+ */
 @Entity
 @Table(name="HORSE")
 public class Horse {

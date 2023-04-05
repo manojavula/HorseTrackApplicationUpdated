@@ -10,6 +10,11 @@ import com.manu.horsetrack.service.InventoryService;
 import com.manu.horsetrack.service.ReportService;
 import com.manu.horsetrack.service.WagerService;
 
+/**
+ * 
+ * @author manoj
+ * Main class to get Initialize the data on load and all do operations like restock, quit, wager and winner.
+ */
 @Component
 public class HorseTrack implements Operations {
 	

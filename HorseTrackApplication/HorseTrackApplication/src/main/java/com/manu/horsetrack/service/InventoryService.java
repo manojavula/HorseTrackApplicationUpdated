@@ -12,6 +12,11 @@ import com.manu.horsetrack.entity.Inventory;
 import com.manu.horsetrack.entity.Wager;
 import com.manu.horsetrack.repository.InventoryRepository;
 
+/**
+ * 
+ * @author manoj
+ * Inventory service is for Restock the Inventory, Decrenment the Inventory and to check the SufficientFunds
+ */
 @Service
 public class InventoryService {
 	

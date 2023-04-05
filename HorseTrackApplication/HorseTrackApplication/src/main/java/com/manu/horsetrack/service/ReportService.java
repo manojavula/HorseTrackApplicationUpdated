@@ -13,6 +13,11 @@ import com.manu.horsetrack.repository.InventoryRepository;
 
 import java.util.List;
 
+/**
+ * 
+ * @author manoj
+ * Report service is for Printing the Horses, Inventory and Printing the Dispense amounts and Error messages.
+ */
 @Service
 public class ReportService {
 

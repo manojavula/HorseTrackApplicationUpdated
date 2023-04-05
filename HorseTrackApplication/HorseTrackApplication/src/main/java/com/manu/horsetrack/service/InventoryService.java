@@ -46,7 +46,8 @@ public class InventoryService {
 	      inventoryRepository.save(inventory);
 	    }
 	  }
-
+	  
+	  // To check the Sufficient Funds
 	  public boolean sufficientFunds(int amountWon) {
 		  
 		  List<Integer> denoms = this.getInventory()

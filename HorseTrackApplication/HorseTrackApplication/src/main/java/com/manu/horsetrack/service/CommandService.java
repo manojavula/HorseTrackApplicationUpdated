@@ -5,6 +5,11 @@ import java.util.Arrays;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 
+/**
+ * 
+ * @author manoj
+ * Command Service class to parse and execute commands
+ */
 @Service
 public class CommandService {
 

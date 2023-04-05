@@ -9,6 +9,11 @@ import com.manu.horsetrack.commons.RaceStatus;
 import com.manu.horsetrack.entity.Horse;
 import com.manu.horsetrack.repository.HorseRepository;
 
+/**
+ * 
+ * @author manoj
+ * Horse Service class is for get HorseName, HorseOdds, Validate the HorseName and set the winning Horse in Database.
+ */
 @Service
 public class HorseService {
 	

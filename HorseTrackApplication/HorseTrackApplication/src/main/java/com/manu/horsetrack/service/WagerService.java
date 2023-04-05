@@ -10,6 +10,11 @@ import java.util.Collections;
 import java.util.List;
 import java.util.stream.Collectors;
 
+/**
+ * 
+ * @author manoj
+ * Wager service is used for calculating amount won,  Dispense Winnings amounts.
+ */
 @Service
 public class WagerService {
 

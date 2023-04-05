@@ -13,6 +13,11 @@ import com.manu.horsetrack.repository.InventoryRepository;
 import com.manu.horsetrack.service.HorseService;
 import com.manu.horsetrack.service.ReportService;
 
+/**
+ * 
+ * @author manoj
+ *
+ */
 @SpringBootApplication
 public class HorseTrackApplication implements CommandLineRunner{
 	

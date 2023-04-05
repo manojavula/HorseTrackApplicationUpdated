@@ -14,6 +14,11 @@ import com.manu.horsetrack.entity.Inventory;
 import com.manu.horsetrack.repository.HorseRepository;
 import com.manu.horsetrack.repository.InventoryRepository;
 
+/**
+ * 
+ * @author manoj
+ * Data service class is used to load the startup data for Horses and Inventory
+ */
 @Service
 public class DataService {
 	

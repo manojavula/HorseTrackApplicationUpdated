@@ -6,6 +6,11 @@ import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.Id;
 import jakarta.persistence.Table;
 
+/**
+ * 
+ * @author manoj
+ * Inventory Entity Class
+ */
 @Entity
 @Table(name="INVENTORY")
 public class Inventory {
